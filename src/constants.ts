@@ -12,11 +12,11 @@ export const COUPLE_DATA = {
 
 export const ASSETS = {
   photos: [
-    "/public/image/foto1.jpg",
-    "/public/image/foto2.jpg",
-    "/public/image/foto3.jpg",
-    "/public/image/foto4.jpg",
-    "/public/image/foto5.jpg"
+    "/public/images/foto1.jpg",
+    "/public/images/foto2.jpg",
+    "/public/images/foto3.jpg",
+    "/public/images/foto4.jpg",
+    "/public/images/foto5.jpg"
   ],
   video: "https://www.image2url.com/r2/default/videos/1778839319324-fd48ec62-bd0e-472e-a2c7-48f03595c7e0.mp4",
   audioMain: "https://www.image2url.com/r2/default/audio/1778824352930-3001d071-3d76-4e36-89c7-619baccba4c1.mp3",
